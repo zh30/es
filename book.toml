@@ -1,0 +1,17 @@
+[book]
+authors = ["Zhang He"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "ECMAScript 语言规范"
+description = "ECMAScript Language Specification"
+
+[output.html]
+theme = "theme"
+mathjax-support = true
+preferred-dark-theme = "ayu"
+google-analytics = "UA-166861237-5"
+git-repository-url = "https://github.com/zhanghecool/es"
+
+[output.html.playpen]
+editable = true
