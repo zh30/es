@@ -2,7 +2,7 @@
 
 该 Ecma 标准定义了 ECMAScript 2021 语言。这是 ECMAScript 语言规范的第十二版。自 1997 年出版第一版以来，ECMAScript 已成长为世界上使用最广泛的通用编程语言之一。它是众所周知的嵌入在 Web 浏览器中的语言，但也已广泛用于服务器和嵌入式应用程序。
 
-ECMAScript 基于多种原始技术，最著名的是 JavaScript（Netscape）和 JScript（Microsoft）。该语言是 Netscape 的 Brendan Eich 发明的，最早出现在该公司的 Navigator 2.0 浏览器中。从 Internet Explorer 3.0 开始，它出现在 Netscape 的所有后续浏览器以及 Microsoft 的所有浏览器中。
+ECMAScript 基于多种原始技术，最著名的是 JavaScript（Netscape）和 JScript（Microsoft）。该语言是 Netscape 的 [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) 发明的，最早出现在该公司的 Navigator 2.0 浏览器中。从 Internet Explorer 3.0 开始，它出现在 Netscape 的所有后续浏览器以及 Microsoft 的所有浏览器中。
 
 ECMAScript 语言规范的开发始于 1996 年 11 月。该 Ecma 标准的第一版于 1997 年 6 月由 Ecma 大会采用。
 
