@@ -33,3 +33,5 @@ ECMAScript 的 2019 引入了一些新的内置功能：flat 与 flatMap 上 Arr
 ECMAScript 的 2020 年，11 个版，介绍了 matchAll 对字符串的方法，以产生用于对象由全局正则表达式生成的所有匹配的迭代器; import()，一种使用动态说明符异步导入模块的语法；BigInt，一个用于处理任意精度整数的新数字基元；Promise.allSettled，新的 Promise 组合器不会短路；globalThis，一种获取全球 this 价值的普遍方式；export \* as ns from 'module'在模块内使用的专用语法；增加 for-in 枚举顺序的标准化；import.meta，是模块中可用的主机填充对象，其中可能包含有关模块的上下文信息；以及添加两个新的语法功能以改善对“空”值的使用（null 或 undefined）：无效合并，一个值选择运算符；以及可选链接，这是一个属性访问和函数调用运算符，如果访问/调用的值为空，则会短路。
 
 在 Ecma TC39 中，数十个代表许多组织的个人为该版本和以前版本的开发做出了非常重要的贡献。此外，已经形成了一个充满活力的社区，以支持 TC39 的 ECMAScript。该社区审查了许多草案，提交了成千上万的 bug 报告，执行了实施实验，提供了测试套件，并对全球开发人员社区进行了 ECMAScript 教育。不幸的是，不可能确定和认可为这一努力做出贡献的每个人和组织。
+
+查看更多请访问 [es.zhanghe.cool](https://es.zhanghe.cool) 查看中文文档
